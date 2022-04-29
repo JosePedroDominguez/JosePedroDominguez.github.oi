@@ -34,11 +34,11 @@ function mostrarElementos(){
         mostrar.style.display = 'none';
         noMostrar.style.display = 'block';
 
-        alert("no me ves");
+       
     }   
     else{
         mostrar.style.display = 'block';
         noMostrar.style.display = 'none';
-        alert("me ves");
+        
     }
 }
